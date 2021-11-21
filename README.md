@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Eric
 
+This readme is currently under maintenance 🛠️. Nevertheless, enjoy your stay!
 <!--
 **ericlin11354/ericlin11354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
