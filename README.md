@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Eric
 
-This readme is currently under maintenance 🛠️. Nevertheless, enjoy your stay!
+This readme is currently under maintenance 🛠️. Nevertheless, welcome!
 
 ![](https://data.whicdn.com/images/332042309/original.gif)
 <!--
